@@ -7,7 +7,7 @@ Taken directly from [colab docs](https://colab.research.google.com/github/google
 Colab can load public github notebooks directly, with no required authorization step.
 
 The notebook at this address: 
-https://github.com/big-turtle/colab_notebooks/blob/main/twitter_scrape.ipynb
+https://github.com/big-turtle/colab_notebooks/blob/main/product_hunt_api_usernames.ipynb
 
 The direct colab link to this notebook is: 
-https://colab.research.google.com/github/big-turtle/colab_notebooks/blob/main/twitter_scrape.ipynb
+https://colab.research.google.com/github/big-turtle/colab_notebooks/blob/main/product_hunt_api_usernames.ipynb
